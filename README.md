@@ -1,4 +1,10 @@
 
+## Devin is working hard.
+
+🔭 [About me](https://10wen.github.io/)
+
+
+
 <!--
 **10wen/10wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -27,3 +33,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=10wen&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
